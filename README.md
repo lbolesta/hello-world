@@ -1,2 +1,2 @@
 # hello-world
-test project
+test project to ensure GitHub is in proper working order 
